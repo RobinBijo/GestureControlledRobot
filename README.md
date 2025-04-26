@@ -7,4 +7,4 @@ WHY: ESP32 is designed to communicate on 115200 when using WiFi(Acc:Espressif Sy
 4. **WHAT: `ledcSetup` and `ledcAttachPin` were removed and `analogWrite(**args)` is used**<br>
 WHY: `ledcSetup` and `ledcAttachPin` are not supported fully in Arduino2 and works mostly in PlatformIO
 
-Co-authored and git pushed to Github with ❤ by @Swastikvoid 
+Co-authored and git pushed to Github with ❤ by @github/SwastikVoiD
